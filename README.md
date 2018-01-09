@@ -1,5 +1,5 @@
 # Ames Housing Project
-## Predicting House Price with Advanced Regression Techniques
+## Predicting House Price with Regression Techniques
 
 ### Project Description and Goal: 
 
